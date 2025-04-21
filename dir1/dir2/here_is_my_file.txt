@@ -1,0 +1,5 @@
+import poc
+
+poc.callFunction()
+
+poc.isWorking()
